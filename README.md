@@ -3,7 +3,7 @@
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+++I++++am++++Thorin!)](https://git.io/typing-svg)
-**About Me:**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">**About Me:**
 
 Hi, I'm Thorin. I'm currently an undergraduate student at Turing Class, Zhejiang University, major in computer science. Good to see you at my Github page!
 
