@@ -4,9 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> **About Me:**
 
-<!-- <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"> -->
-Hi, I'm Thorin. I'm currently an undergraduate student at ACM Honor Class, Shanghai Jiao Tong University, major in computer science. Good to see you at my Github page!
-
+Hi, I'm Thorin. I'm currently an undergraduate student at Turing Class, Zhejiang University, major in computer science. Good to see you at my Github page!
 
 - 🔭 I’m currently working on **academic study**.
 - 🌱 I’m currently learning in @ZJU-Turing.
@@ -20,8 +18,10 @@ Hi, I'm Thorin. I'm currently an undergraduate student at ACM Honor Class, Shang
 ## 📈 Stats
 
 <p align="center"> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Conless&show_icons=true&theme=tokyonight" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Conless&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thorin215&show_icons=true&theme=tokyonight" />
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorin215&theme=tokyonight" />
 </p>
 
 [![Thorin' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Throin215&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorin215)](https://github.com/anuraghazra/github-readme-stats)
