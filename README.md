@@ -1,23 +1,27 @@
-### Hi there 👋
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=000000&width=650&height=80&lines=Hello%F0%9F%91%8B%2C+I'm+Conless+%F0%9F%8E%AF%EF%B8%8F%F0%9F%9A%80%EF%B8%8F" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**Thorin215/Thorin215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> **About Me:**
 
-Here are some ideas to get you started:
+<!-- <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"> -->
+Hi, I'm Thorin. I'm currently an undergraduate student at ACM Honor Class, Shanghai Jiao Tong University, major in computer science. Good to see you at my Github page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Thorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thorin215)](https://github.com/anuraghazra/github-readme-stats)
 
-![Thorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thorin215&show_icons=true)
+- 🔭 I’m currently working on **academic study**.
+- 🌱 I’m currently learning in @ZJU-Turing.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Thorin215?tab=repositories).
 
-![Thorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thorin215&show_icons=true&theme=radical)
+## 🔗 Some Links
+<div align="center">
+<a href="https://conless.dev"><img src="https://img.shields.io/badge/My%20Website-black?style=flat-square&logo=vercel&logoColor=white"></a> <a href="https://github.com/Thorin215/"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"> <a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white"></a> <a href="https://twitter.com/conlesspan"><img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorin215)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 Stats
+
+<p align="center"> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Conless&show_icons=true&theme=tokyonight" />
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Conless&theme=tokyonight" />
+</p>
+
+[![Thorin' github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Throin215&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
