@@ -13,7 +13,7 @@ Hi, I'm Thorin. I'm currently an undergraduate student at Turing Class, Zhejiang
 
 ## 🔗 Some Links
 <div align="center">
-<a href="https://conless.dev"><img src="https://img.shields.io/badge/My%20Website-black?style=flat-square&logo=vercel&logoColor=white"></a> <a href="https://github.com/Thorin215/"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"> <a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white"></a> <a href="https://twitter.com/conlesspan"><img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white">
+<a href="https://thorin215-wang.com"><img src="https://img.shields.io/badge/My%20Website-black?style=flat-square&logo=vercel&logoColor=white"></a> <a href="https://github.com/Thorin215/"><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"> <a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white"></a> <a href="https://twitter.com/David75800960"><img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white">
 </div>
 
 ## 📈 Stats
