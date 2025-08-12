@@ -13,4 +13,4 @@
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorin215&theme=tokyonight" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorin215)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorin215&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
