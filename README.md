@@ -4,9 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">**About Me:**
 
-Hi, I'm Thorin. I'm currently an undergraduate at Turing Class, Zhejiang University, major in computer science. Good to see you at my Github page!
-
-- 🔭 I’m currently interested in MLLMs, Agents and Interesting AIGC.
+🔭 I'm currently an undergraduate interested in MultiModal Understanding and Generation at Turing Class, Zhejiang University, major in computer science. Good to see you at my Github page!
 
 ## 📈 Stats
 
